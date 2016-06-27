@@ -28,6 +28,7 @@ Tested on:
 
 Not (yet) tested:
 - Message signing (using MySigningAtsha204Soft).
+- Inbound QOS1.  
 
 Not (yet) implemented:
 - Inclusion mode.
