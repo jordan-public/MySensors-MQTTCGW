@@ -10,7 +10,7 @@ are communicated in both directions.  Finally, upon disconnection (orderly or
 disorderly) the MQTT broker receives a message, using the last will MQTT
 feature.  
 
-For more details see the Wiki at: https://github.com/jordan-public/MySensors-MQTTCGW/wiki
+For more details and instructions see the Wiki at: https://github.com/jordan-public/MySensors-MQTTCGW/wiki .  
  
 Security WARNING: (solvable with proper configuration/care)
 While this Gateway uses WPA2 WiFi authentication and encryption, as well as
