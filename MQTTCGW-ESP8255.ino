@@ -2,6 +2,8 @@
  * Created by Jordan Stojanovski https://github.com/jordan-public
  * Copyright (C) 2016 Logyx Compuer Corp.
  * 
+ * Based on MQTTGateway example from http://www.mysensors.org
+ * 
  * Rererences:
  * MySensors: http://www.mysensors.org
  * MQTT Client: http://forum.mysensors.org
