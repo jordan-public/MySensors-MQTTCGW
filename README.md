@@ -31,6 +31,6 @@ Not (yet) implemented:
 - Inclusion mode.
  
 Rererences:
-Arduino ESP8266: https://github.com/esp8266/Arduino
-MySensors: http://www.mysensors.org
-MQTT Client: http://pubsubclient.knolleary.net
+- Arduino ESP8266: https://github.com/esp8266/Arduino
+- MySensors: http://www.mysensors.org
+- MQTT Client: http://pubsubclient.knolleary.net
