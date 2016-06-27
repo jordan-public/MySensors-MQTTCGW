@@ -25,8 +25,10 @@ Tested on:
 - NodeMCU 0.9
 - With and without WITH_LEDS_BLINKING
 - Connecting to Mosquitto MQTT Broker (http://mosquitto.org).  
+
 Not (yet) tested:
 - Message signing (using MySigningAtsha204Soft).
+
 Not (yet) implemented:
 - Inclusion mode.
  
