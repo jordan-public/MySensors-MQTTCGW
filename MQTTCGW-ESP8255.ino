@@ -15,7 +15,7 @@
  *******************************
  *
  * REVISION HISTORY
- * Version 0.9 - Created by Jordan Stojanovski <jordanopensource@gmail.com>
+ * Version 0.9 - Created by Jordan Stojanovski https://github.com/jordan-public
  * 
  * DESCRIPTION
  * This is a MySensors Gateway which acts as a MQTT client.  It runs on ESP8266.
